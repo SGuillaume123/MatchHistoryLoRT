@@ -1,0 +1,7 @@
+export {default as set1} from './set1.json'
+export {default as set2} from './set2.json'
+export {default as set3} from './set3.json'
+export {default as set4} from './set4.json'
+export {default as set5} from './set5.json'
+export {default as set6} from './set6.json'
+export {default as set7} from './set7.json'
